@@ -14,3 +14,5 @@ Integrei dados de sensores ópticos (Sentinel-2), radar (Sentinel-1), modelo dig
 - Zonas úmidas ou sazonalmente inundáveis
 
 Com esse classificador, o script realiza a classificação supervisionada das imagens, aplica um filtro espacial (focal mode) para suavizar os resultados e gera polígonos vetoriais para análise das áreas alagadas na cheia. Em seguida, calcula as áreas (em hectares) de cada classe.
+
+![DEM GLO-30](/images/dem.png)
