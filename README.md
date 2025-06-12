@@ -1,5 +1,11 @@
 # floodplain-area-classifier
-[![Lifecycle:experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google-earth&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![Sentinel-2 SR](https://img.shields.io/badge/Sentinel--2_SR-326CE5?style=flat&logo=esa&logoColor=white)](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)
+[![Sentinel-1 GRD](https://img.shields.io/badge/Sentinel--1_GRD-326CE5?style=flat&logo=esa&logoColor=white)](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD)
+[![Copernicus DEM](https://img.shields.io/badge/Copernicus_DEM_GLO30-00A86B?style=flat&logo=esa&logoColor=white)](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)
+[![GEDI GLAD](https://img.shields.io/badge/GEDI_GLAD_V27-228B22?style=flat&logo=nasa&logoColor=white)](https://developers.google.com/earth-engine/datasets/catalog/projects_sat-io_open-datasets_GLAD_GEDI_V27)
+![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
 
 Floodplain Area Classifier Using Optical and Radar Imagery
