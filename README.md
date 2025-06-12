@@ -1,4 +1,7 @@
 # floodplain-area-classifier
+[![Lifecycle:experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+
+
 Floodplain Area Classifier Using Optical and Radar Imagery
 
 # Até onde vai a cheia? Um experimento feito de curiosidade e satélites
